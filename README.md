@@ -56,7 +56,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/Mohd-Muzammil7052/Traffic_Sign_Detection_Using_CNN.git
-cd Traffic-Sign-Detection-CNN
+cd Traffic_Sign_Detection_Using_CNN
 pip install -r requirements.txt
 ```
 ---
@@ -121,6 +121,8 @@ Pillow
  ┗ 📜 README.md                  # Documentation
 ```
 
+---
+
 ## 📄 License  
 
 This project is licensed under the [MIT License](https://opensource.org/license/mit).  
@@ -147,4 +149,6 @@ For queries or collaborations:
 
 **Mohd Muzammil**  
 - [GitHub](https://github.com/Mohd-Muzammil7052)  
-- [LinkedIn](https://www.linkedin.com/in/mohd-muzammil-109044290/) 
+- [LinkedIn](https://www.linkedin.com/in/mohd-muzammil-109044290/)
+
+---

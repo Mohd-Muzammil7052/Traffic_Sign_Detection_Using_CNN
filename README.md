@@ -55,7 +55,7 @@ The model is deployed with **Streamlit** so users can interact with it easily by
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/<your-username>/Traffic-Sign-Detection-CNN.git
+git https://github.com/Mohd-Muzammil7052/Traffic_Sign_Detection_Using_CNN.git
 cd Traffic-Sign-Detection-CNN
 pip install -r requirements.txt
 ```
